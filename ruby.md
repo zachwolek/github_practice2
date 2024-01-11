@@ -11,3 +11,9 @@ Refresh the Github browser
 Verify that the git has been committed and pushed
 See if there's anything new
 ```
+
+### Third Time For Fun
+
+- We are updating for giggles
+- We are committing and feeling better
+- We init, we add, we commit, and we push
